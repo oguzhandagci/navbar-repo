@@ -1,0 +1,30 @@
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon{
+    width: 12px;
+}
+
+.cart{
+    width: 31px;
+}
+
+.ul{
+display: flex;
+}
+
+li{
+    background-color: black;
+    padding: 20Px;
+    list-style-type: none;
+}
+.cfh{
+    background-color: purple;
+    font-size: 60px;
+    text-align: center;
+}
